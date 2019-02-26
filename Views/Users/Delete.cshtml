@@ -1,0 +1,67 @@
+﻿@model WebApplication2.ViewModels.User.DeleteVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body style=" margin-top:50px;margin-left:300px;font-size:25px; background-color:blanchedalmond">
+    <div style="text-align: right">
+        <b>Użytkownik:</b> @Model.username | @Html.ActionLink("Wyloguj", "Logout", "Authentication")
+    </div>
+    <table align="center"  cellpadding="15" border="5" style="border-color:orange; margin-right:650px; margin-top: 100px">
+        <caption style="background-color:orange; font-weight:bold">Czy na pewno usunąć?</caption>
+        <tr>
+            <td>
+                <b>@Html.DisplayNameFor(model => model.user.firstName)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.firstName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+               <b>@Html.DisplayNameFor(model => model.user.lastName)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.lastName)
+            </td>
+        </tr>
+        <tr>
+
+            <td>
+                <b>@Html.DisplayNameFor(model => model.user.age)</b>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.user.age)
+            </td>
+        </tr>
+
+    </table>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div align="center" style="margin-right: 325px" class="form-actions no-color">
+            <input  type="submit" value="Potwierdź usunięcie" class="btn btn-default" />
+
+        </div>
+
+    }
+    <br /><br />
+    <span style="background-color:orange; padding:20px; color:whitesmoke;border:5px solid orange;">
+        @Html.ActionLink("Back to List", "Index")
+    </span>
+
+</body>
+</html>

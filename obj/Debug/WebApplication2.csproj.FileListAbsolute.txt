@@ -1,0 +1,128 @@
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\marek\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\marek\Desktop\net\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\To bedzie zrobiona autoryzacja mowie wam\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Artur\Downloads\Nowy folder\To bedzie zrobiona autoryzacja mowie wam\To bedzie zrobiona autoryzacja mowie wam\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\WebApplication2.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\EntityFramework.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\EntityFramework.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Artur\Downloads\Nowy folder\autoryz\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\WebApplication2.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\EntityFramework.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\EntityFramework.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Autoryzacja\WebApplication2\obj\Debug\WebApplication2.pdb
